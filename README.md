@@ -1,6 +1,33 @@
-- 👋 Olá, eu sou @gugahdourado
+<h1 align='center'>
+  Olá, sou o Gustavo Henrique!!
+  <br/>
+  Bem vindo a minha página :)
+</h1>
 
-## Tecnologias
+<p align='center'>
+  Cientista de Dados
+</p>
+
+### 🌻 Sobre mim:
+
+<p>
+  <em>
+    Tenho 26 anos, sou de Brasília e estou seguindo uma jornada para me tornar um Cientista de Dados.
+  </em>
+</p>
+
+- 🌱 Atualmente estou aperfeiçoando minhas técnicas em Machine Learning, Python e R.
+- 🚀 Estudante da Data Science Academy
+
+### 📊 Metas 2022:
+
+- 📂 Expandir meu portfólio
+
+- 🤝 Contribuir em projetos open-source
+
+- 📈 Conseguir experiência na área
+
+## ⚡ Tecnologias
 <div >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="70" height="70" />&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="70" height="70" />&nbsp;&nbsp;
@@ -9,7 +36,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" />&nbsp;&nbsp;
 </div>       
   
- ## Estatísticas
+ ## 📈 Minhas Estatísticas
 <div>
 <a href="https://github.com/Gugah007">
 <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugah007&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>&nbsp;<img height="150em"  src="https://github-readme-stats.vercel.app/api?username=Gugah007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
