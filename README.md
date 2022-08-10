@@ -8,7 +8,7 @@
   Cientista de Dados
 </p>
 
-### 🌻 Sobre mim:
+### Sobre mim:
 
 <p>
   <em>
