@@ -40,7 +40,7 @@
 <div>
 <a href="https://github.com/Gugah007">
 <img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugah007&layout=compact&langs_count=7&theme=dracula&locale=pt-br&count_private=true"/>&nbsp;<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gugah007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
-</div
+</div>
   
   
 # Quer saber um pouco mais sobre mim?
