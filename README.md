@@ -37,10 +37,11 @@
 </div>       
   
  ## Estatísticas do meu GitHub
-<div>
-<a href="https://github.com/Gugah007">
-<img height="160em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugah007&layout=compact&langs_count=7&theme=dracula&locale=pt-br&count_private=true"/>&nbsp;<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Gugah007&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+<div>  
+<a href="https://github.com/Gugah007"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugah007&layout=compact&theme=dracula&locale=pt-br&count_private=true" /></a>&nbsp;<a href="https://github.com/Gugah007"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Gugah007&show_icons=true&theme=dracula&locale=pt-br&count_private=true&include_all_commits=true" /></a>
 </div>
+
+<div>
 
   
 # Quer saber um pouco mais sobre mim?
