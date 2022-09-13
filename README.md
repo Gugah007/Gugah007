@@ -36,7 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="70" height="70" />&nbsp;&nbsp;
 </div>       
   
- ## Estatísticas do meu GitHub 
+ ## Estatísticas do meu GitHub
+ 
 <div>  
 <a href="https://github.com/Gugah007"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gugah007&layout=compact&theme=dracula&locale=pt-br&count_private=true" /></a>&nbsp;<a href="https://github.com/Gugah007"><img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=Gugah007&show_icons=true&theme=dracula&locale=pt-br&count_private=true&include_all_commits=true" /></a>
 </div>
