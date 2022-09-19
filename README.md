@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aperfeiçoando minhas técnicas em Machine Learning, Python e R.
+- 🌱 Atualmente estou aperfeiçoando minhas técnicas em Machine Learning, Python, Linguagem R e SQL.
 - 🚀 Estudante da Data Science Academy
 
 ### 📊 Metas 2022:
