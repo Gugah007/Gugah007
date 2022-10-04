@@ -11,7 +11,7 @@
 ### Sobre mim:
 <p>
   <em>
-    Tenho 26 anos, sou de Brasília e estou seguindo uma jornada para me tornar um Cientista de Dados.
+    Tenho 27 anos, sou de Brasília e estou seguindo uma jornada para me tornar um Cientista de Dados.
   </em>
 </p>
 
