@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Olá, sou o Gustavo Henrique!!
+  Olá, me chamo Gustavo Henrique!!
   <br/>
   Bem vindo a minha página :)
 </h1>
@@ -11,7 +11,7 @@
 ### Sobre mim:
 <p>
   <em>
-    Tenho 27 anos, sou de Brasília e estou seguindo uma jornada para me tornar um Cientista de Dados.
+    Tenho 27 anos, sou de Águas lindas de Goías e estou seguindo uma jornada para me tornar um Cientista de Dados.
   </em>
 </p>
 
@@ -21,8 +21,6 @@
 ### 📊 Metas 2022:
 
 - 📂 Expandir meu portfólio
-
-- 🤝 Contribuir em projetos open-source
 
 - 📈 Conseguir experiência na área
 
